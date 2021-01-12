@@ -637,7 +637,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -769,7 +769,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.49125, y: 0.30222008}
   m_AnchorMax: {x: 0.8912501, y: 0.39344016}
-  m_AnchoredPosition: {x: -0.000045776367, y: -0.1000061}
+  m_AnchoredPosition: {x: -0.000030517578, y: -0.1000061}
   m_SizeDelta: {x: -160, y: -21}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &526908815
@@ -1208,7 +1208,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: UPDATE 2020.1223
+  m_Text: UPDATE 2020.1227
 --- !u!222 &729379342
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1253,7 +1253,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.49125, y: 0.45788032}
   m_AnchorMax: {x: 0.8912501, y: 0.5466603}
-  m_AnchoredPosition: {x: -0.000045776367, y: -0.0000019073486}
+  m_AnchoredPosition: {x: -0.000030517578, y: 0}
   m_SizeDelta: {x: -160, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &902046793
@@ -1731,7 +1731,7 @@ RectTransform:
   m_GameObject: {fileID: 1189791930}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.01, y: 1.01, z: 1}
   m_Children:
   - {fileID: 668629176}
   - {fileID: 1326239805}
@@ -2117,7 +2117,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.11000001, y: 0.44677994}
   m_AnchorMax: {x: 0.425, y: 0.5533397}
-  m_AnchoredPosition: {x: -0.3999939, y: -0.40000153}
+  m_AnchoredPosition: {x: -0.39996338, y: -0.40000153}
   m_SizeDelta: {x: -0.8502197, y: -0.94299316}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1326239806
@@ -2262,7 +2262,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.10625001, y: 0.2866602}
   m_AnchorMax: {x: 0.4225, y: 0.39344016}
-  m_AnchoredPosition: {x: 2.100006, y: 2}
+  m_AnchoredPosition: {x: 2.0999756, y: 2}
   m_SizeDelta: {x: -1.8502197, y: -0.94299316}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1423105241
@@ -2872,7 +2872,7 @@ RectTransform:
   m_GameObject: {fileID: 5228749311640411986}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.01, y: 1.01, z: 1}
   m_Children:
   - {fileID: 5228749311960349465}
   - {fileID: 1191228670}
