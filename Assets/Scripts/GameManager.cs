@@ -1,11 +1,10 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 /// <summary>
-/// Script that controls the main functions of the game.
+/// Class that controls the main functions of the game.
 /// </summary>
 public class GameManager : MonoBehaviour
 {

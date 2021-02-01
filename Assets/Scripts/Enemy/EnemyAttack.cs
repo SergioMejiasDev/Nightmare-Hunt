@@ -1,9 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 /// <summary>
-/// Script in charge of enemy attacks.
+/// Class in charge of enemy attacks.
 /// </summary>
 public class EnemyAttack : MonoBehaviour
 {

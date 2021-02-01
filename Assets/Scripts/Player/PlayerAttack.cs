@@ -1,9 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 /// <summary>
-/// Script that ensures that the player can shoot.
+/// Class that ensures that the player can shoot.
 /// </summary>
 public class PlayerAttack : MonoBehaviour
 {
@@ -18,7 +16,7 @@ public class PlayerAttack : MonoBehaviour
     int shotMask;
     [SerializeField] ParticleSystem gunParticles = null;
     AudioSource audioSource;
-    [SerializeField] AudioClip disparoClip = null;
+    [SerializeField] AudioClip shootClip = null;
     [SerializeField] Transform shootPoint = null;
     [SerializeField] LineRenderer shotLine = null;
 
@@ -55,7 +53,7 @@ public class PlayerAttack : MonoBehaviour
     {
         timer = 0.0f;
 
-        audioSource.clip = disparoClip;
+        audioSource.clip = shootClip;
         audioSource.Play();
 
         gunParticles.Stop();

@@ -1,9 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 /// <summary>
-/// Script responsible for the camera to follow the character.
+/// Class responsible for the camera to follow the character.
 /// </summary>
 public class CameraFollow : MonoBehaviour
 {

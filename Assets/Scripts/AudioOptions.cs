@@ -1,11 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Audio;
 
 /// <summary>
-/// Script that manages the audio options.
+/// Class that manages the audio options.
 /// </summary>
 public class AudioOptions : MonoBehaviour
 {

@@ -1,10 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.AI;
 
 /// <summary>
-/// Script that modifies the variables affected by the difficulty.
+/// Class that modifies the variables affected by the difficulty.
 /// </summary>
 public class DifficultyManager : MonoBehaviour
 {

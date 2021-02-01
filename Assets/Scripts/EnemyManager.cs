@@ -1,9 +1,8 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// Script that manages the enemy generator.
+/// Class that manages the enemy generator.
 /// </summary>
 public class EnemyManager : MonoBehaviour
 {

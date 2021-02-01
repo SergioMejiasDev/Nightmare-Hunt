@@ -46,7 +46,6 @@ SkinnedMeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 3
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -181,7 +180,8 @@ AudioSource:
   m_GameObject: {fileID: 6830638336907248938}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -5728462926044644338, guid: b108c06b670cd984ab58beb0bf6c5965, type: 2}
+  OutputAudioMixerGroup: {fileID: -5728462926044644338, guid: b108c06b670cd984ab58beb0bf6c5965,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 02e6208ec76314158a9f548f51fe9f11, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1

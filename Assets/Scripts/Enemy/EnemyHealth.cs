@@ -1,10 +1,9 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
 /// <summary>
-/// Script that manages the health and score of the enemies.
+/// Class that manages the health and score of the enemies.
 /// </summary>
 public class EnemyHealth : MonoBehaviour
 {

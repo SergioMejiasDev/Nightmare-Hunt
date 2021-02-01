@@ -1,7 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
+/// <summary>
+/// Class that is in charge of the player's movement.
+/// </summary>
 public class PlayerMovement : MonoBehaviour
 {
     [Range(1.0f, 6.0f)] [SerializeField] float speed = 2.0f;

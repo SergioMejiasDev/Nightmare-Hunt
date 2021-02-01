@@ -1,10 +1,9 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// Script that manages the health of the player.
+/// Class that manages the health of the player.
 /// </summary>
 public class PlayerHealth : MonoBehaviour
 {
